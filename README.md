@@ -14,7 +14,7 @@ The growing demand for high-quality industrial products has led to a significant
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/Altaf-hucn/Industrial-defective-chips-detection-using-deep-convolutional-neural-network-with-IFM.git]
+    git clone https://github.com/Altaf-hucn/Industrial-defective-chips-detection-using-deep-convolutional-neural-network-with-IFM.git
     ```
 2. Navigate to the project directory:
     ```bash
