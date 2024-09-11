@@ -18,11 +18,11 @@ The growing demand for high-quality industrial products has led to a significant
     ```
 2. Navigate to the project directory:
     ```bash
-    cd defective-chip-detection
+    cd Industrial-defective-chips-detection-using-deep-convolutional-neural-network-with-IFM
     ```
 3. Install the required dependencies:
     ```bash
-    pip install -r requirements.txt
+    pip install tensorflow-gpu==2.4.0 and tensorflow-estimator==2.4.0 
     ```
 
 ---
