@@ -31,13 +31,13 @@ The growing demand for high-quality industrial products has led to a significant
 
 1. **Data Preparation**: Place your dataset in the `data/` folder. The dataset should be structured as follows:
     ```
-    data/
-        train/
-            normal/
-            abnormal/
-        test/
-            normal/
-            abnormal/
+    Data/
+        Train/
+            Abnormal/
+            Normal/
+        Test/
+            Abnormal/
+            Normal/
     ```
 
 2. **Training the Model**:
