@@ -7,7 +7,18 @@
 ---
 ## Abstract
 
-The growing demand for high-quality industrial products has led to a significant emphasis on image anomaly detection (AD). AD in industrial goods presents a formidable research challenge that demands the application of sophisticated techniques to identify and address deviations from the expected norm accurately. Manufacturers increasingly recognize the significance of employing intelligent systems to detect flaws and defects in product parts. However, industrial settings pose several challenges: diverse categories, limited abnormal samples and vagueness. Hence, there is a growing demand for advanced image AD techniques within industrial product manufacturing. In this paper, an intelligent industrial defective chips detection framework is proposed which mainly consists of three core components. First, the convolutional features of the efficient backbone model is effectively utilized to balance the computational complexity and performance of industrial resource-constrained devices. Secondly, a novel inverse feature matching followed by masking method is proposed to enhance the explanability that localizes the abnormal regions of the abnormal chips. Finally, to evaluate our proposed method a comprehensive ablation study is conducted, where different machine learning and deep learning algorithms are analysed to claim the superiority of our method. Furthermore, to help the research community, a benchmark dataset is collected from real-world industry manufacturing for defective chip detection. The empirical results from the dataset demonstrate the strength and effectiveness of the proposed model compared to the other models.
+The growing demand for high-quality industrial products has led to a significant emphasis on image anomaly detection (AD). AD in industrial goods presents a formidable research challenge that demands sophisticated techniques to accurately identify and address deviations from the expected norm. Manufacturers increasingly recognize the importance of employing intelligent systems to detect flaws and defects in product parts.
+
+However, industrial settings pose several challenges such as diverse categories, limited abnormal samples, and vagueness in anomalies. Hence, there is a growing demand for advanced image AD techniques within industrial product manufacturing.
+
+In this paper, we propose an intelligent industrial defective chips detection framework consisting of three core components:
+
+1. **Efficient Backbone Model**: Utilization of convolutional features from an efficient backbone model to balance computational complexity and performance for industrial resource-constrained devices.
+2. **Inverse Feature Matching with Masking**: A novel inverse feature matching followed by a masking method is introduced to enhance explainability, localizing abnormal regions in defective chips.
+3. **Comprehensive Ablation Study**: Different machine learning and deep learning algorithms are analyzed to demonstrate the superiority of the proposed method.
+
+Additionally, a benchmark dataset collected from real-world industrial manufacturing for defective chip detection is provided. The empirical results demonstrate the effectiveness of the proposed model compared to other methods.
+
 ---
 
 ## Installation
