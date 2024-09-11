@@ -1,7 +1,9 @@
 # Industrial Defective Chips Detection using Deep Convolutional Neural Network with Inverse Feature Matching Mechanism
+
 **Paper Title**: Industrial Defective Chips Detection using Deep Convolutional Neural Network with Inverse Feature Matching Mechanism  
 **Published in**: *Journal of Computational Design and Engineering*  
 **DOI**: [https://doi.org/10.1093/jcde/qwae019](https://doi.org/10.1093/jcde/qwae019)  
+
 ---
 ## Abstract
 
