@@ -21,7 +21,7 @@ The dataset used in this study was collected from real-world industrial manufact
 ### Dataset Access
 To acquire the dataset, please send a request to:
 
-📧 altafh3797.com
+📧 altafh3797@gmail.com.com
 
 ### Dataset Organization
 
@@ -35,3 +35,15 @@ dataset/
 
 - `normal/` contains non-defective chip images.
 - `abnormal/` contains defective chip images.
+
+- If you find this work helpful, please consider citing it:
+### BibTeX:
+
+@article{ullah2024industrial,
+  title={Industrial defective chips detection using deep convolutional neural network with inverse feature matching mechanism},
+  author={Ullah, Waseem and Khan, Samee Ullah and Kim, Min Je and Hussain, Altaf and Munsif, Muhammad and Lee, Mi Young and Seo, Daeho and Baik, Sung Wook},
+  journal={Journal of Computational Design and Engineering},
+  pages={qwae019},
+  year={2024},
+  publisher={Oxford University Press}
+}
