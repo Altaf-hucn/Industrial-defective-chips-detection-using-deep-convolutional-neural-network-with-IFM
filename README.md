@@ -18,10 +18,7 @@ The growing demand for high-quality industrial products has led to a significant
 ```
 The dataset used in this study was collected from real-world industrial manufacturing environments.
 
-### Dataset Access
-To acquire the dataset, please send a request to:
 
-📧 altafh3797@gmail.com
 
 ### Dataset Organization
 
@@ -45,6 +42,12 @@ If you find this work useful in your research, please cite:
 @article{ullah2024industrial,
   title={Industrial defective chips detection using deep convolutional neural network with inverse feature matching mechanism},
   author={Ullah, Waseem and Khan, Samee Ullah and Kim, Min Je and Hussain, Altaf and Munsif, Muhammad and Lee, Mi Young and Seo, Daeho and Baik, Sung Wook},
+
+## 📬 Contact
+
+If you have any questions, suggestions, or research-related inquiries, please feel free to contact:
+
+📧 altaf3797@gmail.com
   journal={Journal of Computational Design and Engineering},
   pages={qwae019},
   year={2024},
