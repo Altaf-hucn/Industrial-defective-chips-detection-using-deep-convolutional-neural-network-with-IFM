@@ -21,7 +21,7 @@ The dataset used in this study was collected from real-world industrial manufact
 ### Dataset Access
 To acquire the dataset, please send a request to:
 
-📧 altafh3797@gmail.com.com
+📧 altafh3797@gmail.com
 
 ### Dataset Organization
 
