@@ -37,8 +37,11 @@ dataset/
 - `abnormal/` contains defective chip images.
 
 - If you find this work helpful, please consider citing it:
-### BibTeX:
+## 📚 Citation
 
+If you find this work useful in your research, please cite:
+
+```bibtex
 @article{ullah2024industrial,
   title={Industrial defective chips detection using deep convolutional neural network with inverse feature matching mechanism},
   author={Ullah, Waseem and Khan, Samee Ullah and Kim, Min Je and Hussain, Altaf and Munsif, Muhammad and Lee, Mi Young and Seo, Daeho and Baik, Sung Wook},
@@ -47,3 +50,4 @@ dataset/
   year={2024},
   publisher={Oxford University Press}
 }
+```
